@@ -1291,3 +1291,6 @@ It is simple although not coded we will have to :
 - User id can be used to get user details through 'GET USERS' request
 - User details can be used to send SMS to the user
 
+ 
+ 
+ Thank You
